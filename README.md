@@ -1,6 +1,6 @@
 # Template
 
-Proyecto backend para kioscos
+Proyecto 
 
 ## Stack tecnologico
 
